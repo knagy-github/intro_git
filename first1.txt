@@ -5,3 +5,4 @@ Git練習用のファイル
 以下の練習
  .git add
  .git commit
+ .git remove
