@@ -6,3 +6,5 @@ Git練習用のファイル
  .git add
  .git commit
  .git remove
+ .git status
+
