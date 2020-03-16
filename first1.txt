@@ -1,3 +1,7 @@
 Git練習用のファイル
 
 ワークフローの練習
+
+以下の練習
+ .git add
+ .git commit
